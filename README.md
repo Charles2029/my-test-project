@@ -1,2 +1,2 @@
-# my-test-project
-This is my test projtct on github
+# About my first project on GitHub
+This is my youtube channel [Charles Jia](https://www.youtube.com/@CharlesJia)
